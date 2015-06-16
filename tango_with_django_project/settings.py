@@ -87,6 +87,7 @@ DATABASES = {
 
 # Internationalization
 # https://docs.djangoproject.com/en/dev/topics/i18n/
+LOGIN_URL = '/rango/login/'
 
 LANGUAGE_CODE = 'en-us'
 
